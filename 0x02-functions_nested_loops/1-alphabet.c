@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - check the code
+ * print_alphabet - prints the english alphabet from a-z.
  *
  * Return: Always 0.
  */
