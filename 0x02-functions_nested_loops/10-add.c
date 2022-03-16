@@ -6,7 +6,6 @@
  */
 int add(int, int)
 {
-int sum;
 sum = (int + int);
 putchar(sum);
 return (sum);
