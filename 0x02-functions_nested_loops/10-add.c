@@ -6,8 +6,8 @@
  */
 int add(int, int)
 {
-int a, b, sum;
-sum = (a + b);
+int sum;
+sum = (int + int);
 putchar(sum);
 return (sum);
 }
