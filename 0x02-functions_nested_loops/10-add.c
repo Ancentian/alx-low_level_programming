@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * add(int, int) adds two integers and returns the result
- *
- * Return: the result
+ * add - adds two numbers together.
+ * @i: The first number to be added.
+ * @j: The second number to be added.
+ * Return: the sum of two numbers.
  */
-int add(int, int)
+int add(int i, int j)
 {
-sum = (int + int);
-putchar(sum);
-return (sum);
+return (i + j);
 }
+
