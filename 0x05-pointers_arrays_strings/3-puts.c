@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * void _puts(char *str)  prints a string,
  *
  * Return: Always 0.
  */

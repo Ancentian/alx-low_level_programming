@@ -2,9 +2,8 @@
 #include "main.h"
 
 /**
- * void puts2(char *str) prints every other character of a string, starting with the first character
- *
- * Return: Always 0.
+ * void puts2(char *str) prints every other character of a string
+ *Return: Always 0.
  */
 void puts2(char *str)
 {
