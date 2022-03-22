@@ -9,6 +9,6 @@
 void swap_int(int *a, int *b)
 {
 
-putchar(*a = 42);
-putchar(*b = 98);
+putchar(a = 42);
+putchar(b = 98);
 }
