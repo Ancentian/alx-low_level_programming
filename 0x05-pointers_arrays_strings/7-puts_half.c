@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * void puts_half(char *str)  prints half of a string, followed by a new line.
  *
  * Return: Always 0.
  */
